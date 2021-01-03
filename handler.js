@@ -1247,9 +1247,9 @@ ${(config.iklan || []).map((iklan, i) => `${i + 1}. ${iklan}`).join('\n') || '_T
 
 • *Bot Author* •
 𝙉𝙪𝙧𝙪𝙩𝙤𝙢𝙤 (Nurutomo)
-https://github.com/Nurutomo/
-Repo: https://github.com/Nurutomo/nbot-wa
-${readMore}wa.me/6281515860089
+https://github.com/offdhymaz/
+Repo: https://github.com/offdhymazxpro/BotsWa
+${readMore}wa.me/6285796582392
 `.slice(1, -1)
 }
 
