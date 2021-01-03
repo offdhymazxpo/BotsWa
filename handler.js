@@ -1,7 +1,7 @@
 // Config
 var config = {
     botName: '🔹 𝙉 O T 🔹',
-    operator: ['6281515860089'],
+    operator: ['6285796582392'],
     prefix: process.env.prefix ? new RegExp('^' + process.env.prefix) : /^[°•π÷×¶∆£¢€¥®™✓_=|~!?@#$%^&.\/\\©^]/,
     downloadStatus: false, // Curi Status Orang :|
     devMode: false, // true,
@@ -1247,9 +1247,9 @@ ${(config.iklan || []).map((iklan, i) => `${i + 1}. ${iklan}`).join('\n') || '_T
 
 • *Bot Author* •
 𝙉𝙪𝙧𝙪𝙩𝙤𝙢𝙤 (Nurutomo)
-https://github.com/Nurutomo/
-Repo: https://github.com/Nurutomo/nbot-wa
-${readMore}wa.me/6281515860089
+https://github.com/
+Repo: https://github.com
+${readMore}wa.me/6285796582392
 `.slice(1, -1)
 }
 
